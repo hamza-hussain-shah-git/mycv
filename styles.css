@@ -72,6 +72,9 @@ h3{
 .middle-container{
     margin: 100px 0;
 }
+div .mountain{
+    width: 50%;
+}
 .bottom-container{
     margin: 100px 0 0 0 ;
     background-color: #66bfbf;
